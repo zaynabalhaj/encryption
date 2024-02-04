@@ -1,1 +1,3 @@
-A website that uses stream cipher techniques to encrypt and decrypt data
+A website for encrypting/decrypting data using stream ciphers
+https://zaynabalhaj.github.io/encryption/ 
+(open it through chrome)
